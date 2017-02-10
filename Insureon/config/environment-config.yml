@@ -1,0 +1,8 @@
+default:
+  browser: 'ie'
+  enable_auto_tags: false
+
+dev:
+  app_url: 'http://www.insureon.com/'
+
+

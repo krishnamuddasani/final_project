@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'cucumber', '2.0.0'
+gem 'gherkin'
+gem 'page-object'
+gem 'require_all'
+gem 'watir-webdriver', '0.6.11'
+gem 'watir-launcher'
+gem 'rspec'
+gem 'rspec-expectations'
+gem 'page-object-external-routes'
+gem 'test_environment'
+
